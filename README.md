@@ -1,3 +1,4 @@
+The first time try!
 # Gentle Introduction To HTML for Beginners
 Files for the "Gentle Introduction to HTML for Beginners" course.
 
